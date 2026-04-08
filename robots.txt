@@ -1,7 +1,7 @@
 User-agent: Googlebot
 Allow: /
 
-User-agent: hello
+User-agent: hey
 Allow: /
 
 User-agent: Twitterbot
